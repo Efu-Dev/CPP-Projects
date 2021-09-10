@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622580028 source:c:\users\maria\askfm\askfm\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<sstream>
+	<string.h>
+
